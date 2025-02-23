@@ -20,6 +20,13 @@ body {
   perspective: 1000px;
 }
 
+#text{
+      position: absolute;
+    top: 52px;
+    font-size: 64px;
+    color: aliceblue;
+    font-family: sans-serif;
+}
 .night {
   position: fixed;
   left: 50%;
