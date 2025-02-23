@@ -24,7 +24,7 @@ body {
       position: absolute;
     top: 52px;
     font-size: 64px;
-    color: aliceblue;
+    color: #65e6cc;
     font-family: sans-serif;
    opacity: 0;
     transition: opacity 1s ease-in-out;
