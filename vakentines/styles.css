@@ -26,6 +26,8 @@ body {
     font-size: 64px;
     color: aliceblue;
     font-family: sans-serif;
+   opacity: 0;
+    transition: opacity 1s ease-in-out;
 }
 .night {
   position: fixed;
